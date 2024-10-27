@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/country-capital-game/static/css/main.4c28388f.css",
+    "main.css": "/country-capital-game/static/css/main.bfad02b9.css",
     "main.js": "/country-capital-game/static/js/main.7b421aa5.js",
     "index.html": "/country-capital-game/index.html",
-    "main.4c28388f.css.map": "/country-capital-game/static/css/main.4c28388f.css.map",
+    "main.bfad02b9.css.map": "/country-capital-game/static/css/main.bfad02b9.css.map",
     "main.7b421aa5.js.map": "/country-capital-game/static/js/main.7b421aa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c28388f.css",
+    "static/css/main.bfad02b9.css",
     "static/js/main.7b421aa5.js"
   ]
 }
