@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.selectionBox {
+  border: 1px solid #414141;
+  margin: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
